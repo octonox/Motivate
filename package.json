@@ -1,0 +1,19 @@
+{
+  "name": "motivate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octonox/Motivate.git"
+  },
+  "author": "Octonox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octonox/Motivate/issues"
+  },
+  "homepage": "https://github.com/octonox/Motivate#readme"
+}
